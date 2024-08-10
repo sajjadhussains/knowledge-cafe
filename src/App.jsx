@@ -1,15 +1,15 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
-import "./App.css";
+import Blogs from "./components/Blogs/Blogs";
+import Bookmarks from "./components/Bookmarks/Bookmarks";
+import Header from "./components/Header/Header";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <>
-      <h1>Hello New Bangladesh</h1>
-      <p>Insahllah allah will help us</p>
+      <Header></Header>
+      <div className="md:flex">
+        <Blogs></Blogs>
+        <Bookmarks></Bookmarks>
+      </div>
     </>
   );
 }

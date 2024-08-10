@@ -1,0 +1,52 @@
+[
+  {
+    "id": "001",
+    "cover": "https://i.imghippo.com/files/ItSai1723249014.jpg",
+    "title": "The Art of Minimalism",
+    "author_img": "https://i.imghippo.com/files/DingK1723249229.png",
+    "author": "John Doe",
+    "posted_date": "2024-08-01",
+    "reading_time": "5 minutes",
+    "hashtags": ["#Minimalism", "#Art", "#Design"]
+  },
+  {
+    "id": "002",
+    "cover": "https://i.imghippo.com/files/4ntQ31723249086.png",
+    "title": "Mastering Python Programming",
+    "author_img": "https://i.imghippo.com/files/vBURN1723249265.jpg",
+    "author": "Jane Smith",
+    "posted_date": "2024-07-20",
+    "reading_time": "8 minutes",
+    "hashtags": ["#Python", "#Programming", "#Tech"]
+  },
+  {
+    "id": "003",
+    "cover": "https://i.imghippo.com/files/HQ39a1723249131.png",
+    "title": "A Journey Through Space",
+    "author_img": "https://www.imghippo.com/i/uGABn1723249293.jpg",
+    "author": "Alice Johnson",
+    "posted_date": "2024-08-05",
+    "reading_time": "10 minutes",
+    "hashtags": ["#Space", "#Science", "#Exploration"]
+  },
+  {
+    "id": "004",
+    "cover": "https://i.imghippo.com/files/fx4RN1723249160.jpg",
+    "title": "The Future of AI",
+    "author_img": "https://i.imghippo.com/files/doqBm1723249315.jpg",
+    "author": "Robert Brown",
+    "posted_date": "2024-08-03",
+    "reading_time": "7 minutes",
+    "hashtags": ["#AI", "#Technology", "#Innovation"]
+  },
+  {
+    "id": "005",
+    "cover": "https://i.imghippo.com/files/fx4RN1723249160.jpg",
+    "title": "Understanding Blockchain",
+    "author_img": "https://i.imghippo.com/files/doqBm1723249315.jpg",
+    "author": "Emily Davis",
+    "posted_date": "2024-07-28",
+    "reading_time": "6 minutes",
+    "hashtags": ["#Blockchain", "#Cryptocurrency", "#Finance"]
+  }
+]
